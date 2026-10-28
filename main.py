@@ -312,10 +312,10 @@
 #     if i % 10 == 0:
 #         print(i)
 # 1ден 30га чейинки сандардын ичинен 3кө да, 2ге да бөлүнгөндөрүн чыгаргыла.
-# for i in range(1, 31):
-#     if i % 3== 0 and i % 2 == 0:
-#             print(i)
-# number = 1 while number <= 3:
-#     print(number)
-#     number += 1
+for i in range(1, 31):
+    if i % 3== 0 and i % 2 == 0:
+            print(i)
+number = 1 while number <= 3:
+    print(number)
+    number += 1
 
